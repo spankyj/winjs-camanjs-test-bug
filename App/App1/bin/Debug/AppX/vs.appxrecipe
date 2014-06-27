@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OFFICE</Machine>
+    <WindowsUser>Lee</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7d2ddb7f-2ef3-45df-805e-295c9cdda599</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>40722D186572E39C84D04695821531F2F11FC83A0227FEA31BCC97CEE4FA99DA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7d2ddb7f-2ef3-45df-805e-295c9cdda599_1.0.0.0_neutral__n7wdzm614gaee</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7d2ddb7f-2ef3-45df-805e-295c9cdda599_n7wdzm614gaee!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7d2ddb7f-2ef3-45df-805e-295c9cdda599</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lee</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-27T09:29:50.849</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-06-27T09:34:10.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T01:11:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T01:11:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T01:11:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T01:11:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\js\app.js">
+      <PackagePath>js\app.js</PackagePath>
+      <Modified>2014-06-27T09:33:42.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\js\caman.full.pack.js">
+      <PackagePath>js\caman.full.pack.js</PackagePath>
+      <Modified>2013-04-09T03:15:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-03-12T15:27:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\js\jquery.min.js">
+      <PackagePath>js\jquery.min.js</PackagePath>
+      <Modified>2014-06-27T09:29:37.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-03-14T01:11:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\preview.jpg">
+      <PackagePath>preview.jpg</PackagePath>
+      <Modified>2014-06-27T09:22:02.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-27T09:29:50.716</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

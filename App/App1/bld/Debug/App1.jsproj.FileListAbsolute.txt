@@ -1,0 +1,15 @@
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bin\Debug\ReverseMap\resources.pri
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bin\Debug\AppxManifest.xml
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\priconfig.xml
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\priconfig.xml.intermediate
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\layout.resfiles
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\layout.resfiles.intermediate
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\resources.resfiles
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\resources.resfiles.intermediate
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\pri.resfiles
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\pri.resfiles.intermediate
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\qualifiers.txt
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lee\Documents\GitHub\CanvasTest\App\App1\bld\Debug\ProjectArchitectures.txt
